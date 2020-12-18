@@ -1,0 +1,26 @@
+.signupForm {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 30px;
+    align-items: center;
+}
+
+#input {
+    min-width: 340px;
+}
+
+.signupButton {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.avatarInput {
+    color: gray;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    margin-left: 136px;
+}

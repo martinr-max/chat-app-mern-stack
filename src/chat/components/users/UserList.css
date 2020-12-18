@@ -1,0 +1,16 @@
+.userList_container {
+    display: flex;
+    flex-direction: column;
+}
+
+.userList_headLine {
+    border-bottom: 2px solid lightgray;
+    padding-bottom: 15px;
+    margin-top: 26px;
+    display: flex;
+    flex-flow: column;
+}
+
+::marker {
+    color: green;
+}
