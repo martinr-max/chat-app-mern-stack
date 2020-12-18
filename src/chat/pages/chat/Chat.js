@@ -88,8 +88,7 @@ export default function Chat(props) {
       });
     }, [socket, roomName, user_name, history]);
    
-    
-
+ 
   return(
     <Container>
       <Grid  container item xl={true}>
